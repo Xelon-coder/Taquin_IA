@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="TP_taquin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/8puzzle-testing.zip!/" />
+      <root url="jar://$PROJECT_DIR$/algs4-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
